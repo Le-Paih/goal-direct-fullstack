@@ -1,0 +1,746 @@
+[
+  {
+    "name": "Paris Saint-Germain Home Shirt 23/24",
+    "team": "Paris Saint-Germain",
+    "colorway": "Midnight Navy/University Red",
+    "brand": "Nike",
+    "league": "Ligue 1",
+    "nation": false,
+    "price": 90,
+    "image": {
+      "image1": "/kitsImgs/Ligue1/PSG/Home23-24.jpg",
+      "image2": "/kitsImgs/Ligue1/PSG/Home23-24(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": false,
+      "M": true,
+      "L": true,
+      "XL": false,
+      "XXL": true
+    },
+    "description": "Introducing the Paris Saint-Germain Home Shirt for the 23/24 season, a masterpiece of style and performance. Crafted with precision and passion, this iconic jersey embodies the spirit of one of football's most storied clubs. Designed with the latest innovations in sports apparel technology, it offers unparalleled comfort and breathability, keeping you cool and focused during every match.<br></br>Adorned with the prestigious PSG crest and bold team colors, this shirt is a symbol of pride for fans worldwide. Whether you're cheering from the stands or dominating the pitch, the Paris Saint-Germain Home Shirt 23/24 ensures you'll stand out as a true supporter of Les Parisiens. Elevate your game and showcase your allegiance with this exceptional piece of footballing history.",
+
+    "kitId": 1
+  },
+  {
+    "name": "Paris Saint-Germain Away Shirt 23/24",
+    "team": "Paris Saint-Germain",
+    "colorway": "White/Midnight Navy/Midnight Navy",
+    "brand": "Nike",
+    "league": "Ligue 1",
+    "nation": false,
+    "price": 90,
+    "image": {
+      "image1": "/kitsImgs/Ligue1/PSG/Away23-24.jpg",
+      "image2": "/kitsImgs/Ligue1/PSG/Away23-24(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": true,
+      "M": false,
+      "L": true,
+      "XL": true,
+      "XXL": true
+    },
+    "description": "Introducing the Paris Saint-Germain Away Shirt for the 23/24 season, a testament to style, sophistication, and the enduring legacy of one of football's most illustrious clubs. Impeccably designed with meticulous attention to detail, this jersey reflects the dynamic spirit of PSG's away matches. Engineered with cutting-edge materials, it delivers optimal performance and comfort, empowering you to excel on the field with every move. Emblazoned with the iconic PSG crest and featuring striking colors inspired by the energy of Paris, this shirt is a symbol of pride for fans around the globe.<br></br>Whether you're cheering from the sidelines or showcasing your skills on the pitch, the Paris Saint-Germain Away Shirt 23/24 ensures you'll stand out as a true supporter of Les Parisiens. Elevate your game and make a statement of allegiance with this extraordinary piece of footballing history.",
+
+    "kitId": 2
+  },
+  {
+    "name": "Paris Saint-Germain Third Shirt 23/24",
+    "team": "Paris Saint-Germain",
+    "colorway": "Anthracite/Black/Stone",
+    "brand": "Nike",
+    "league": "Ligue 1",
+    "nation": false,
+    "price": 90,
+    "image": {
+      "image1": "/kitsImgs/Ligue1/PSG/Third23-24.jpg",
+      "image2": "/kitsImgs/Ligue1/PSG/Third23-24(2).jpg"
+    },
+    "size": {
+      "XS": false,
+      "S": false,
+      "M": true,
+      "L": true,
+      "XL": false,
+      "XXL": false
+    },
+    "description": "Introducing the Paris Saint-Germain Third Shirt for the 23/24 season, a fusion of innovation and style that embodies the club's forward-thinking ethos. Crafted with meticulous attention to detail, this jersey is designed to stand out both on and off the pitch. Engineered with advanced materials, it offers unparalleled comfort and performance, ensuring you stay cool and focused during every match.<br></br>Adorned with the iconic PSG crest and featuring bold, eye-catching colors that pay homage to the club's rich heritage, this shirt is a must-have for fans looking to showcase their support with pride. Whether you're cheering from the stands or showcasing your skills on the field, the Paris Saint-Germain Third Shirt 23/24 guarantees you'll make a statement wherever you go. Elevate your game and join the ranks of true PSG aficionados with this exceptional piece of footballing apparel.",
+
+    "kitId": 3
+  },
+  {
+    "name": "Paris Saint-Germain Fourth Shirt 23/24",
+    "team": "Paris Saint-Germain",
+    "colorway": "Hemp/Obsidian/Sequoia/Rough Green",
+    "brand": "Nike",
+    "league": "Ligue 1",
+    "nation": false,
+    "price": 90,
+    "image": {
+      "image1": "/kitsImgs/Ligue1/PSG/Fourth23-24.jpg",
+      "image2": "/kitsImgs/Ligue1/PSG/Fourth23-24(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": true,
+      "M": false,
+      "L": true,
+      "XL": true,
+      "XXL": true
+    },
+    "description": "Introducing the Paris Saint-Germain Fourth Shirt for the 23/24 season, a bold testament to innovation and style that sets a new standard in footballing apparel. Meticulously crafted with precision and passion, this jersey embodies the spirit of PSG's relentless pursuit of greatness. Engineered with cutting-edge materials, it offers unrivaled comfort and performance, ensuring you stay at the top of your game from kickoff to final whistle.<br></br>Adorned with the iconic PSG crest and featuring striking, contemporary design elements, this shirt stands out as a symbol of pride for fans worldwide. Whether you're supporting from the stands or showcasing your skills on the pitch, the Paris Saint-Germain Fourth Shirt 23/24 is your ultimate companion. Elevate your game and make a bold statement of allegiance with this extraordinary piece of footballing history.",
+
+    "kitId": 4
+  },
+  {
+    "name": "FC Nantes Home Shirt 23/24",
+    "team": "FC Nantes",
+    "colorway": "Yellow/Green",
+    "brand": "Macron",
+    "league": "Ligue 1",
+    "nation": false,
+    "price": 75,
+    "image": {
+      "image1": "/kitsImgs/Ligue1/Nantes/Home23-24.jpg",
+      "image2": "/kitsImgs/Ligue1/Nantes/Home23-24(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": true,
+      "M": true,
+      "L": true,
+      "XL": false,
+      "XXL": true
+    },
+    "description": "Introducing the FC Nantes Home Shirt for the 23/24 season, a symbol of tradition, passion, and unwavering support for Les Canaris. Crafted with meticulous attention to detail, this jersey pays homage to the rich history and heritage of one of French football's most beloved clubs. Engineered with cutting-edge materials, it offers exceptional comfort and performance, ensuring you stay at the top of your game, whether you're cheering from the stands or dominating the pitch.<br></br> Adorned with the iconic FC Nantes crest and featuring the club's classic yellow and green colors, this shirt is a must-have for fans looking to showcase their allegiance with pride. Elevate your game and stand out as a true supporter with the FC Nantes Home Shirt 23/24, the perfect blend of style and tradition for every Canaris fan.",
+
+    "kitId": 5
+  },
+  {
+    "name": "FC Nantes Away Shirt 23/24",
+    "team": "FC Nantes",
+    "colorway": "White/Green/Yellow",
+    "brand": "Macron",
+    "league": "Ligue 1",
+    "nation": false,
+    "price": 75,
+    "image": {
+      "image1": "/kitsImgs/Ligue1/Nantes/Away23-24.jpg",
+      "image2": "/kitsImgs/Ligue1/Nantes/Away23-24(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": false,
+      "M": true,
+      "L": true,
+      "XL": true,
+      "XXL": true
+    },
+    "description": "Introducing the FC Nantes Away Shirt for the 23/24 season, a sleek and dynamic representation of the club's spirit and determination. Designed with precision and passion, this jersey embodies the essence of FC Nantes's away matches, combining style with performance. Engineered with advanced materials, it offers superior comfort and breathability, ensuring you stay cool and focused on the pitch.<br></br>Adorned with the iconic FC Nantes crest and featuring bold colors that reflect the energy and vibrancy of the team, this shirt is a symbol of pride for fans worldwide. Whether you're cheering from the stands or showcasing your skills on the field, the FC Nantes Away Shirt 23/24 is your ultimate companion. Elevate your game and stand out as a true supporter with this exceptional piece of footballing apparel.",
+
+    "kitId": 6
+  },
+  {
+    "name": "Olympique Lyonnais Home Shirt 23/24",
+    "team": "Olympique Lyonnais",
+    "colorway": "White",
+    "brand": "Adidas",
+    "league": "Ligue 1",
+    "nation": false,
+    "price": 80,
+    "image": {
+      "image1": "/kitsImgs/Ligue1/Lyon/Home23-24.jpg",
+      "image2": "/kitsImgs/Ligue1/Lyon/Home23-24(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": true,
+      "M": false,
+      "L": true,
+      "XL": true,
+      "XXL": true
+    },
+    "description": "Introducing the Olympique Lyonnais Home Shirt for the 23/24 season, a testament to tradition, excellence, and the unwavering spirit of Les Gones. Meticulously crafted with attention to detail, this jersey honors the rich history and legacy of one of French football's most iconic clubs. Engineered with cutting-edge materials, it delivers unmatched comfort and performance, ensuring you stay at the top of your game whether you're on the pitch or in the stands.<br></br>Adorned with the iconic Olympique Lyonnais crest and featuring the club's signature blue and red colors, this shirt is a symbol of pride for fans around the world. Elevate your game and showcase your allegiance with the Olympique Lyonnais Home Shirt 23/24, a timeless piece of footballing apparel that captures the essence of Les Gones' relentless pursuit of greatness.",
+
+    "kitId": 7
+  },
+  {
+    "name": "Olympique Lyonnais Away Shirt 23/24",
+    "team": "Olympique Lyonnais",
+    "colorway": "High-res Blue",
+    "brand": "Adidas",
+    "league": "Ligue 1",
+    "nation": false,
+    "price": 80,
+    "image": {
+      "image1": "/kitsImgs/Ligue1/Lyon/Away23-24.jpg",
+      "image2": "/kitsImgs/Ligue1/Lyon/Away23-(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": true,
+      "M": true,
+      "L": true,
+      "XL": true,
+      "XXL": true
+    },
+    "description": "Introducing the Olympique Lyonnais Away Shirt for the 23/24 season, a striking blend of innovation and style that embodies the club's dynamic spirit and determination. Expertly crafted with meticulous attention to detail, this jersey represents the essence of Les Gones' away matches with its sleek design and performance-focused features. Engineered with cutting-edge materials, it offers exceptional comfort and breathability, ensuring you stay cool and composed on the pitch.<br></br>Adorned with the iconic Olympique Lyonnais crest and featuring bold colors that reflect the energy and vibrancy of the team, this shirt is a symbol of pride for fans worldwide. Whether you're supporting from the stands or showcasing your skills on the field, the Olympique Lyonnais Away Shirt 23/24 is your ultimate companion. Elevate your game and stand out as a true supporter with this exceptional piece of footballing apparel.",
+
+    "kitId": 8
+  },
+  {
+    "name": "France Home Shirt 2022",
+    "team": "France",
+    "colorway": "Midnight Navy/Metallic Gold",
+    "brand": "Nike",
+    "league": "nation",
+    "nation": "France",
+    "price": 79,
+    "image": {
+      "image1": "/kitsImgs/National/France/Home22.jpg",
+      "image2": "/kitsImgs/National/France/Home22(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": true,
+      "M": true,
+      "L": true,
+      "XL": false,
+      "XXL": false
+    },
+    "description": "Introducing the France Home Shirt for 2022, a symbol of national pride and footballing excellence. Crafted with meticulous attention to detail, this jersey embodies the rich history and tradition of the French national team. Designed with cutting-edge materials, it offers superior comfort and performance, ensuring you stay at the top of your game whether you're cheering from the stands or dominating the pitch.<br></br>Adorned with the iconic Gallic Rooster emblem and featuring the classic blue color synonymous with Les Bleus, this shirt is a must-have for fans looking to showcase their support with style. Elevate your game and stand out as a true supporter with the France Home Shirt 2022, the perfect blend of tradition and innovation for every French football enthusiast.",
+
+    "kitId": 9
+  },
+  {
+    "name": "Real Madrid Home Shirt 23/24",
+    "team": "Real Madrid",
+    "colorway": "White",
+    "brand": "Adidas",
+    "league": "La Liga",
+    "nation": null,
+    "price": 85,
+    "image": {
+      "image1": "/kitsImgs/LaLiga/RealMadrid/Home23-24.jpg",
+      "image2": "/kitsImgs/LaLiga/RealMadrid/Home23-24(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": true,
+      "M": true,
+      "L": false,
+      "XL": true,
+      "XXL": false
+    },
+    "description": "Introducing the Real Madrid Home Shirt for the 23/24 season, a symbol of unparalleled legacy and relentless pursuit of excellence. Crafted with meticulous attention to detail, this jersey embodies the iconic white and royal blue colors synonymous with one of football's most storied clubs. Designed with cutting-edge materials, it offers optimal comfort and performance, ensuring you stay cool and composed on the pitch, whether you're playing or supporting from the stands.<br></br>Adorned with the legendary Real Madrid crest, this shirt is a testament to the club's rich history and tradition of success. Elevate your game and showcase your allegiance with the Real Madrid Home Shirt 23/24, the ultimate choice for every Madridista dedicated to the pursuit of greatness.",
+
+    "kitId": 10
+  },
+  {
+    "name": "FC Barcelona Home Shirt 23/24",
+    "team": "FC Barcelona",
+    "colorway": "Deep Royal Blue/Noble Red/White",
+    "brand": "Nike",
+    "league": "La Liga",
+    "nation": null,
+    "price": 90,
+    "image": {
+      "image1": "/kitsImgs/LaLiga/Barcelona/Home23-24.jpg",
+      "image2": "/kitsImgs/LaLiga/Barcelona/Home23-24(2).jpg"
+    },
+    "size": {
+      "XS": false,
+      "S": false,
+      "M": true,
+      "L": true,
+      "XL": true,
+      "XXL": true
+    },
+    "description": "Introducing the Barcelona Home Shirt for the 23/24 season, a symbol of passion, pride, and the iconic blaugrana colors that ignite the hearts of fans worldwide. Meticulously crafted with precision and style, this jersey embodies the spirit of FC Barcelona's storied legacy and commitment to excellence. Engineered with cutting-edge materials, it offers unparalleled comfort and performance, ensuring you stay at the top of your game whether you're cheering from the stands or dominating the pitch.<br></br>Adorned with the legendary Barcelona crest and featuring the iconic vertical stripes, this shirt is a timeless symbol of the club's rich history and unrivaled success. Elevate your game and showcase your allegiance with the Barcelona Home Shirt 23/24, the perfect choice for every Barça fan dedicated to the beautiful game.",
+
+    "kitId": 11
+  },
+  {
+    "name": "Atletico de Madrid Home Shirt 23/24",
+    "team": "Atletico de Madrid",
+    "colorway": "Sport Red/Global Red/Old Royal",
+    "brand": "Nike",
+    "league": "La Liga",
+    "nation": null,
+    "price": 90,
+    "image": {
+      "image1": "/kitsImgs/LaLiga/Atletico/Home23-24.jpg",
+      "image2": "/kitsImgs/LaLiga/Atletico/Home23-24(2).jpg"
+    },
+    "size": {
+      "XS": false,
+      "S": false,
+      "M": true,
+      "L": true,
+      "XL": true,
+      "XXL": true
+    },
+    "description": "Introducing the Atletico de Madrid Home Shirt for the 23/24 season, a symbol of passion, perseverance, and unwavering dedication to the red and white stripes. Crafted with meticulous attention to detail, this jersey embodies the indomitable spirit of Los Rojiblancos and their relentless pursuit of victory. Engineered with cutting-edge materials, it offers unparalleled comfort and performance, ensuring you stay at the top of your game whether you're on the pitch or in the stands.<br></br>Adorned with the iconic Atletico de Madrid crest and featuring the club's signature stripes, this shirt is a testament to the rich history and tradition of one of Spanish football's most storied clubs. Elevate your game and showcase your allegiance with the Atletico de Madrid Home Shirt 23/24, the ultimate choice for every fan committed to the fight for glory.",
+
+    "kitId": 12
+  },
+  {
+    "name": "Manchester City Home Shirt 23/24",
+    "team": "Manchester City",
+    "colorway": "Team Light Blue/Puma White",
+    "brand": "Puma",
+    "league": "Premier League",
+    "nation": null,
+    "price": 79,
+    "image": {
+      "image1": "/kitsImgs/PremierLeague/ManCity/Home23-24.jpg",
+      "image2": "/kitsImgs/PremierLeague/ManCity/Home23-24(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": true,
+      "M": true,
+      "L": false,
+      "XL": false,
+      "XXL": false
+    },
+    "description": "Introducing the Manchester City Home Shirt for the 23/24 season, a testament to excellence, innovation, and the relentless pursuit of success. Meticulously crafted with precision and style, this jersey embodies the spirit of the Citizens and their commitment to dominating the English football scene. Engineered with cutting-edge materials, it offers unmatched comfort and performance, ensuring you stay at the top of your game whether you're on the pitch or cheering from the stands.<br></br>Adorned with the iconic Manchester City crest and featuring the club's signature sky blue color, this shirt is a symbol of pride for fans worldwide. Elevate your game and showcase your allegiance with the Manchester City Home Shirt 23/24, the ultimate choice for every true Blue dedicated to the pursuit of glory.",
+
+    "kitId": 13
+  },
+  {
+    "name": "Liverpool FC Home Shirt 23/24",
+    "team": "Liverpool FC",
+    "colorway": "Gym Red/White",
+    "brand": "Nike",
+    "league": "Premier League",
+    "nation": null,
+    "price": 79,
+    "image": {
+      "image1": "/kitsImgs/PremierLeague/Liverpool/Home23-24.jpg",
+      "image2": "/kitsImgs/PremierLeague/Liverpool/Home23-24(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": false,
+      "M": true,
+      "L": true,
+      "XL": true,
+      "XXL": true
+    },
+    "description": "Introducing the Liverpool FC Home Shirt for the 23/24 season, a symbol of tradition, passion, and the relentless pursuit of glory. Meticulously crafted with precision and style, this jersey embodies the spirit of the Reds and their iconic Anfield legacy. Engineered with cutting-edge materials, it offers unmatched comfort and performance, ensuring you stay at the top of your game whether you're on the pitch or in the stands.<br></br>Adorned with the legendary Liverbird crest and featuring the club's iconic red color, this shirt is a symbol of pride for fans worldwide. Elevate your game and showcase your allegiance with the Liverpool FC Home Shirt 23/24, the ultimate choice for every true Red dedicated to the pursuit of greatness.",
+
+    "kitId": 14
+  },
+  {
+    "name": "Bayer Leverkusen Home Shirt 23/24",
+    "team": "Bayer Leverkusen",
+    "colorway": "Black/Red",
+    "brand": "Castore",
+    "league": "Bundesliga",
+    "nation": null,
+    "price": 75,
+    "image": {
+      "image1": "/kitsImgs/Bundesliga/Leverkusen/Home23-24.jpg",
+      "image2": "/kitsImgs/Bundesliga/Leverkusen/Home23-24(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": true,
+      "M": true,
+      "L": false,
+      "XL": true,
+      "XXL": true
+    },
+    "description": "Introducing the Bayer Leverkusen Home Shirt for the 23/24 season, a symbol of tradition, passion, and the relentless pursuit of excellence. Meticulously crafted with precision and style, this jersey embodies the spirit of Die Werkself and their commitment to success on the pitch. Engineered with cutting-edge materials, it offers unmatched comfort and performance, ensuring you stay at the top of your game whether you're on the pitch or cheering from the stands.<br></br>Adorned with the iconic Bayer Leverkusen crest and featuring the club's traditional colors, this shirt is a symbol of pride for fans worldwide. Elevate your game and showcase your allegiance with the Bayer Leverkusen Home Shirt 23/24, the ultimate choice for every true supporter dedicated to the pursuit of glory.",
+
+    "kitId": 15
+  },
+  {
+    "name": "Borussia Dortmund Home Shirt 23/24",
+    "team": "Borussia Dortmund",
+    "colorway": "Cyber Yellow/Puma Black",
+    "brand": "Puma",
+    "league": "Bundesliga",
+    "nation": null,
+    "price": 75,
+    "image": {
+      "image1": "/kitsImgs/Bundesliga/Dortmund/Home23-24.jpg",
+      "image2": "/kitsImgs/Bundesliga/Dortmund/Home23-24(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": true,
+      "M": true,
+      "L": true,
+      "XL": false,
+      "XXL": true
+    },
+    "description": "Introducing the Borussia Dortmund Home Shirt for the 23/24 season, a symbol of passion, pride, and the indomitable spirit of Die Schwarzgelben. Crafted with meticulous attention to detail, this jersey embodies the essence of one of German football's most iconic clubs. Engineered with cutting-edge materials, it offers unparalleled comfort and performance, ensuring you stay at the top of your game whether you're on the pitch or in the stands.<br></br>Adorned with the legendary Borussia Dortmund crest and featuring the club's iconic yellow and black colors, this shirt is a timeless symbol of the club's rich history and unrivaled success. Elevate your game and showcase your allegiance with the Borussia Dortmund Home Shirt 23/24, the perfect choice for every fan committed to the pursuit of victory.",
+
+    "kitId": 16
+  },
+  {
+    "name": "AC Milan Home Shirt 23/24",
+    "team": "AC Milan",
+    "colorway": "For All Time Red/Puma Black",
+    "brand": "Puma",
+    "league": "Serie A",
+    "nation": null,
+    "price": 75,
+    "image": {
+      "image1": "/kitsImgs/SerieA/ACMilan/Home23-24.jpg",
+      "image2": "/kitsImgs/SerieA/ACMilan/Home23-24(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": true,
+      "M": true,
+      "L": true,
+      "XL": true,
+      "XXL": true
+    },
+    "description": "Introducing the AC Milan Home Shirt for the 23/24 season, a symbol of tradition, excellence, and the enduring legacy of the Rossoneri. Meticulously crafted with precision and style, this jersey embodies the spirit of one of Italian football's most storied clubs. Engineered with cutting-edge materials, it offers unmatched comfort and performance, ensuring you stay at the top of your game whether you're on the pitch or in the stands.<br></br>Adorned with the iconic AC Milan crest and featuring the club's classic red and black stripes, this shirt is a timeless symbol of pride for fans worldwide. Elevate your game and showcase your allegiance with the AC Milan Home Shirt 23/24, the ultimate choice for every Rossonero dedicated to the pursuit of greatness.",
+
+    "kitId": 17
+  },
+  {
+    "name": "AC Milan Third Shirt 23/24",
+    "team": "AC Milan",
+    "colorway": "Ravish/Royal Sapphire",
+    "brand": "Puma",
+    "league": "Serie A",
+    "nation": null,
+    "price": 75,
+    "image": {
+      "image1": "/kitsImgs/SerieA/ACMilan/Third23-24.jpg",
+      "image2": "/kitsImgs/SerieA/ACMilan/Third23-24(2).jpg"
+    },
+    "size": {
+      "XS": false,
+      "S": false,
+      "M": false,
+      "L": true,
+      "XL": true,
+      "XXL": false
+    },
+    "description": "Introducing the AC Milan Third Shirt for the 23/24 season, a bold and innovative addition to the Rossoneri's collection of iconic jerseys. Expertly crafted with meticulous attention to detail, this jersey pushes the boundaries of design while maintaining the club's rich tradition. Engineered with cutting-edge materials, it offers superior comfort and performance, ensuring you stay at the top of your game whether you're on the pitch or cheering from the stands.<br></br>Adorned with the iconic AC Milan crest and featuring striking colors and patterns inspired by the energy and vibrancy of Milan, this shirt is a symbol of pride for fans worldwide. Elevate your game and showcase your allegiance with the AC Milan Third Shirt 23/24, the perfect choice for those who dare to stand out and embrace the future of football fashion.",
+
+    "kitId": 18
+  },
+  {
+    "name": "Inter Milan Home Shirt 23/24",
+    "team": "Inter Milan",
+    "colorway": "Lyon Blue/Black/Vibrant Yellow",
+    "brand": "Nike",
+    "league": "Serie A",
+    "nation": null,
+    "price": 90,
+    "image": {
+      "image1": "/kitsImgs/SerieA/Inter/Home23-24.jpg",
+      "image2": "/kitsImgs/SerieA/Inter/Home23-24(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": true,
+      "M": true,
+      "L": true,
+      "XL": true,
+      "XXL": true
+    },
+    "description": "Introducing the Inter Milan Home Shirt for the 23/24 season, a symbol of tradition, passion, and the relentless pursuit of victory. Meticulously crafted with precision and style, this jersey embodies the spirit of Nerazzurri and their iconic history. Engineered with cutting-edge materials, it offers unparalleled comfort and performance, ensuring you stay at the top of your game whether you're on the pitch or cheering from the stands.<br></br>Adorned with the legendary Inter Milan crest and featuring the club's classic blue and black stripes, this shirt is a timeless symbol of pride for fans worldwide. Elevate your game and showcase your allegiance with the Inter Milan Home Shirt 23/24, the ultimate choice for every Interista dedicated to the pursuit of glory.",
+
+    "kitId": 19
+  },
+  {
+    "name": "Juventus Home Shirt 23/24",
+    "team": "Juventus",
+    "colorway": "Black/White",
+    "brand": "Adidas",
+    "league": "Serie A",
+    "nation": null,
+    "price": 80,
+    "image": {
+      "image1": "/kitsImgs/SerieA/Juventus/Home23-24.jpg",
+      "image2": "/kitsImgs/SerieA/Juventus/Home23-24(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": true,
+      "M": true,
+      "L": true,
+      "XL": true,
+      "XXL": true
+    },
+    "description": "Introducing the Juventus Home Shirt for the 23/24 season, a symbol of tradition, excellence, and the enduring legacy of the Bianconeri. Meticulously crafted with precision and style, this jersey embodies the spirit of one of Italian football's most storied clubs. Engineered with cutting-edge materials, it offers unparalleled comfort and performance, ensuring you stay at the top of your game whether you're on the pitch or in the stands.<br></br>Adorned with the iconic Juventus crest and featuring the club's classic black and white stripes, this shirt is a timeless symbol of pride for fans worldwide. Elevate your game and showcase your allegiance with the Juventus Home Shirt 23/24, the ultimate choice for every Bianconeri dedicated to the pursuit of greatness.",
+
+    "kitId": 20
+  },
+  {
+    "name": "Senegal Home Shirt 22/23",
+    "team": "Senegal",
+    "colorway": "Puma White/Pepper Green",
+    "brand": "Puma",
+    "league": "nation",
+    "nation": "Senegal",
+    "price": 79,
+    "image": {
+      "image1": "/kitsImgs/National/Senegal/Home22-23.jpg",
+      "image2": "/kitsImgs/National/Senegal/Home22-23(2).jpg"
+    },
+    "size": {
+      "XS": false,
+      "S": false,
+      "M": true,
+      "L": true,
+      "XL": true,
+      "XXL": true
+    },
+    "description": "Introducing the Senegal Home Shirt for the 22/23, a symbol of national pride and footballing prowess. Crafted with meticulous attention to detail, this jersey embodies the vibrant spirit and rich heritage of Senegal's footballing tradition. Engineered with advanced materials, it offers superior comfort and performance, ensuring you stay at the top of your game whether you're on the pitch or cheering from the stands.<br></br>Adorned with the iconic Senegal crest and featuring the vibrant colors of the national flag, this shirt is a symbol of unity and solidarity for fans across the nation. Elevate your game and showcase your allegiance with the Senegal Home Shirt 2022, the perfect choice for every Teranga Lion supporter dedicated to the pursuit of victory.",
+
+    "kitId": 21
+  },
+  {
+    "name": "Côte d'Ivoire Home Shirt 22/23",
+    "team": "Côte d'Ivoire",
+    "colorway": "Vibrant Orange/Puma White",
+    "brand": "Puma",
+    "league": "nation",
+    "nation": "Côte d'Ivoire",
+    "price": 79,
+    "image": {
+      "image1": "/kitsImgs/National/CoteD'Ivoire/Home22-23.jpg",
+      "image2": "/kitsImgs/National/CoteD'Ivoire/Home22-23(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": false,
+      "M": false,
+      "L": true,
+      "XL": true,
+      "XXL": true
+    },
+    "description": "Introducing the Côte d'Ivoire Home Shirt for 22/23 season, a symbol of national pride and footballing heritage. Meticulously crafted with attention to detail, this jersey embodies the spirit of the Elephants and their rich tradition of excellence on the pitch. Engineered with advanced materials, it offers superior comfort and performance, ensuring you stay at the top of your game whether you're playing or cheering from the stands.<br></br>Adorned with the iconic Côte d'Ivoire crest and featuring the vibrant colors of the national flag, this shirt is a symbol of unity and solidarity for fans across the country. Elevate your game and showcase your allegiance with the Côte d'Ivoire Home Shirt 2022, the perfect choice for every supporter dedicated to the pursuit of victory.",
+
+    "kitId": 22
+  },
+  {
+    "name": "Morocco Home Shirt 22/23",
+    "team": "Morocco",
+    "colorway": "Puma Red/Power Green",
+    "brand": "Puma",
+    "league": "nation",
+    "nation": "Morocco",
+    "price": 79,
+    "image": {
+      "image1": "/kitsImgs/National/Morocco/Home22-23.jpg",
+      "image2": "/kitsImgs/National/Morocco/Home22-23(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": true,
+      "M": true,
+      "L": true,
+      "XL": true,
+      "XXL": true
+    },
+    "description": "Introducing the Morocco Home Shirt for the 2022/23 season, a symbol of national pride and footballing prowess. Crafted with meticulous attention to detail, this jersey embodies the vibrant spirit and rich heritage of Moroccan football. Engineered with advanced materials, it offers superior comfort and performance, ensuring you stay at the top of your game whether you're on the pitch or cheering from the stands.<br></br>Adorned with the iconic Moroccan crest and featuring the bold colors of the national flag, this shirt is a symbol of unity and solidarity for fans across the nation. Elevate your game and showcase your allegiance with the Morocco Home Shirt 2022/23, the perfect choice for every supporter dedicated to the pursuit of victory.",
+
+    "kitId": 23
+  },
+  {
+    "name": "Netherlands Home Shirt 22/23",
+    "team": "Netherlands",
+    "colorway": "Laser Orange/Black",
+    "brand": "Nike",
+    "league": "nation",
+    "nation": "Netherlands",
+    "price": 80,
+    "image": {
+      "image1": "/kitsImgs/National/Netherlands/Home22-23.jpg",
+      "image2": "/kitsImgs/National/Netherlands/Home22-23(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": true,
+      "M": true,
+      "L": true,
+      "XL": true,
+      "XXL": true
+    },
+    "description": "Introducing the Netherlands Home Shirt for 2022, a symbol of footballing tradition and national pride. Crafted with meticulous attention to detail, this jersey embodies the vibrant spirit and rich heritage of Dutch football. Engineered with advanced materials, it offers superior comfort and performance, ensuring you stay at the top of your game whether you're on the pitch or cheering from the stands.<br></br>Adorned with the iconic Dutch crest and featuring the classic orange color associated with the Oranje, this shirt is a symbol of unity and solidarity for fans across the nation. Elevate your game and showcase your allegiance with the Netherlands Home Shirt 2022, the perfect choice for every supporter dedicated to the pursuit of victory.",
+
+    "kitId": 24
+  },
+  {
+    "name": "Inter Miami Home Shirt 2024",
+    "team": "Inter Miami",
+    "colorway": "Easy Pink",
+    "brand": "Adidas",
+    "league": "MLS",
+    "nation": null,
+    "price": 90,
+    "image": {
+      "image1": "/kitsImgs/MLS/InterMiami/Home24.jpg",
+      "image2": "/kitsImgs/MLS/InterMiami/Home24(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": true,
+      "M": false,
+      "L": true,
+      "XL": true,
+      "XXL": true
+    },
+    "description": "Introducing the Inter Miami Home Shirt for 2024, a symbol of passion, ambition, and the vibrant culture of Miami football. Crafted with meticulous attention to detail, this jersey embodies the spirit of the city's dynamic soccer scene. Engineered with advanced materials, it offers superior comfort and performance, ensuring you stay at the top of your game whether you're on the pitch or cheering from the stands.<br></br>Adorned with the iconic Inter Miami crest and featuring the club's signature colors, this shirt is a symbol of unity and pride for fans across South Florida. Elevate your game and showcase your allegiance with the Inter Miami Home Shirt 2024, the perfect choice for every supporter dedicated to the pursuit of victory.",
+
+    "kitId": 25
+  },
+  {
+    "name": "Inter Miami Away Shirt 2024",
+    "team": "Inter Miami",
+    "colorway": "Black/Bliss Pink",
+    "brand": "Adidas",
+    "league": "MLS",
+    "nation": null,
+    "price": 90,
+    "image": {
+      "image1": "/kitsImgs/MLS/InterMiami/Away24.jpg",
+      "image2": "/kitsImgs/MLS/InterMiami/Away24(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": true,
+      "M": true,
+      "L": true,
+      "XL": true,
+      "XXL": true
+    },
+    "description": "Introducing the Inter Miami Away Shirt for 2024, a bold representation of the club's ambition and style both on and off the pitch. Crafted with meticulous attention to detail, this jersey embodies the dynamic spirit of Miami's soccer culture. Engineered with advanced materials, it offers superior comfort and performance, ensuring you stay at the top of your game whether you're playing or supporting from the stands.<br></br>Adorned with the iconic Inter Miami crest and featuring striking design elements inspired by the vibrant energy of the city, this shirt is a symbol of pride for fans everywhere. Elevate your game and showcase your allegiance with the Inter Miami Away Shirt 2024, the perfect choice for every supporter dedicated to the pursuit of victory, wherever the match may take them.",
+
+    "kitId": 26
+  },
+  {
+    "name": "CF Montréal Home Shirt 2024",
+    "team": "CF Montréal",
+    "colorway": "Light Blue",
+    "brand": "Adidas",
+    "league": "MLS",
+    "nation": null,
+    "price": 90,
+    "image": {
+      "image1": "/kitsImgs/MLS/Montreal/Home24.jpg",
+      "image2": "/kitsImgs/MLS/Montreal/Home24(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": true,
+      "M": true,
+      "L": true,
+      "XL": true,
+      "XXL": true
+    },
+    "description": "Introducing the CF Montréal Home Shirt for 2024, a symbol of passion, unity, and the vibrant soccer culture of Montreal. Meticulously crafted with attention to detail, this jersey embodies the spirit of the city's diverse and dynamic fan base. Engineered with advanced materials, it offers superior comfort and performance, ensuring you stay at the top of your game whether you're on the pitch or cheering from the stands.<br></br>Adorned with the iconic CF Montréal crest and featuring the club's signature colors, this shirt is a testament to the rich history and bright future of soccer in Montreal. Elevate your game and showcase your allegiance with the CF Montréal Home Shirt 2024, the perfect choice for every supporter dedicated to the pursuit of victory.",
+
+    "kitId": 27
+  },
+  {
+    "name": "LAFC Home Shirt 2024",
+    "team": "LAFC",
+    "colorway": "Black",
+    "brand": "Adidas",
+    "league": "MLS",
+    "nation": null,
+    "price": 90,
+    "image": {
+      "image1": "/kitsImgs/MLS/LAFC/Home24.jpg",
+      "image2": "/kitsImgs/MLS/LAFC/Home24(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": true,
+      "M": true,
+      "L": true,
+      "XL": true,
+      "XXL": true
+    },
+    "description": "Introducing the LAFC Home Shirt for 2024, a symbol of passion, unity, and the vibrant soccer culture of Los Angeles. Meticulously crafted with attention to detail, this jersey embodies the spirit of the city's diverse and dynamic fan base. Engineered with advanced materials, it offers superior comfort and performance, ensuring you stay at the top of your game whether you're on the pitch or cheering from the stands.<br></br>Adorned with the iconic LAFC crest and featuring the club's signature colors, this shirt is a testament to the rich history and bright future of soccer in LA. Elevate your game and showcase your allegiance with the LAFC Home Shirt 2024, the perfect choice for every supporter dedicated to the pursuit of victory.",
+
+    "kitId": 28
+  },
+  {
+    "name": "Tottenham Hotspur Home Shirt 23/24",
+    "team": "Tottenham Hotspur",
+    "colorway": "White/Blue",
+    "brand": "Nike",
+    "league": "Premier League",
+    "nation": null,
+    "price": 79,
+    "image": {
+      "image1": "/kitsImgs/PremierLeague/Spurs/Home23-24.jpg",
+      "image2": "/kitsImgs/PremierLeague/Spurs/Home23-24(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": false,
+      "M": true,
+      "L": true,
+      "XL": true,
+      "XXL": true
+    },
+    "description": "Introducing the Tottenham Hotspur Home Shirt for the 23/24 season, a true emblem of tradition, pride, and the relentless spirit of the Lilywhites. Meticulously designed with meticulous attention to detail, this jersey captures the essence of Tottenham's rich footballing heritage. Engineered with cutting-edge materials, it offers superior comfort and performance, ensuring you stay at the top of your game whether you're on the pitch or cheering from the stands.<br></br>Adorned with the iconic Tottenham Hotspur crest and featuring the unmistakable Lilywhite color, this shirt is a timeless symbol of allegiance for fans around the globe. Elevate your game and showcase your unwavering support with the Tottenham Hotspur Home Shirt 23/24, the perfect attire for every Spurs fan committed to the pursuit of excellence.",
+
+    "kitId": 29
+  },
+  {
+    "name": "Manchester United Home Shirt 23/24",
+    "team": "Manchester United",
+    "colorway": "Red/Black",
+    "brand": "adidas",
+    "league": "Premier League",
+    "nation": null,
+    "price": 79,
+    "image": {
+      "image1": "/kitsImgs/PremierLeague/ManUtd/Home23-24.jpg",
+      "image2": "/kitsImgs/PremierLeague/ManUtd/Home23-24(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": false,
+      "M": true,
+      "L": true,
+      "XL": true,
+      "XXL": true
+    },
+    "description": "Introducing the Manchester United Home Shirt for the 23/24 season, a symbol of tradition, pride, and the relentless pursuit of glory. Meticulously crafted with attention to detail, this jersey embodies the spirit of one of English football's most iconic clubs. Engineered with cutting-edge materials, it offers superior comfort and performance, ensuring you stay at the top of your game whether you're on the pitch or in the stands.<br></br>Adorned with the legendary Manchester United crest and featuring the iconic red color, this shirt is a timeless symbol of allegiance for fans worldwide. Elevate your game and showcase your unwavering support with the Manchester United Home Shirt 23/24, the ultimate attire for every Red Devil dedicated to the pursuit of greatness.",
+
+    "kitId": 30
+  },
+  {
+    "name": "Real Madrid Away Shirt 23/24",
+    "team": "Real Madrid",
+    "colorway": "Legend Ink/Preloved Yellow",
+    "brand": "adidas",
+    "league": "La Liga",
+    "nation": null,
+    "price": 80,
+    "image": {
+      "image1": "/kitsImgs/LaLiga/RealMadrid/Away23-24.jpg",
+      "image2": "/kitsImgs/LaLiga/RealMadrid/Away23-24(2).jpg"
+    },
+    "size": {
+      "XS": true,
+      "S": true,
+      "M": true,
+      "L": true,
+      "XL": true,
+      "XXL": true
+    },
+    "description": "Introducing the Real Madrid Away Shirt for the 23/24 season, a bold declaration of style and sophistication that sets new standards in football fashion. Meticulously crafted with attention to detail, this jersey captures the essence of Real Madrid's illustrious history while pushing the boundaries of contemporary design. Engineered with cutting-edge materials, it offers superior comfort and performance, ensuring you stay at the top of your game whether you're on the pitch or cheering from the stands.<br></br>Adorned with the iconic Real Madrid crest and featuring striking colors and patterns inspired by the energy of the Spanish capital, this shirt is a symbol of pride for fans worldwide. Elevate your game and make a statement of allegiance with the Real Madrid Away Shirt 23/24, the perfect choice for every Madridista dedicated to the pursuit of glory.",
+
+    "kitId": 31
+  }
+]

@@ -1,0 +1,588 @@
+[
+  {
+    "name": "adidas Predator Elite Tongue",
+    "colorway": "Core Black/White/Solar Red",
+    "brand": "adidas",
+    "price": 240,
+    "popular": true,
+    "image": {
+      "image1": "/BootImgs/adidas/predator/adidasPredatorEliteTongueFG/CoreBlackWhiteSolarRed/Picture1.jpg",
+      "image2": "/BootImgs/adidas/predator/adidasPredatorEliteTongueFG/CoreBlackWhiteSolarRed/Picture2.jpg",
+      "image3": "/BootImgs/adidas/predator/adidasPredatorEliteTongueFG/CoreBlackWhiteSolarRed/Picture3.jpg",
+      "image4": "/BootImgs/adidas/predator/adidasPredatorEliteTongueFG/CoreBlackWhiteSolarRed/Picture4.jpg"
+    },
+    "size": {
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": false
+    },
+    "description": "Introducing the Predator Elite Foldover Tongue Firm Ground Football Boots, engineered to elevate your game to the next level.<br></br>Designed with precision and crafted for performance, these boots are the ultimate weapon on the pitch.<br></br>Featuring a foldover tongue design, these boots provide a snug and secure fit, ensuring maximum stability and control during every move. The firm ground soleplate offers unparalleled traction, allowing you to maneuver with agility and confidence on the field.<br></br>Constructed with premium materials, including a durable synthetic upper and strategically placed padding, these boots offer enhanced protection and comfort throughout the game. The Predator technology embedded in the forefoot enhances ball control, giving you the edge to dominate the competition.<br></br>Whether you're dribbling past defenders or striking the winning goal, the Predator Elite Foldover Tongue Firm Ground Football Boots are engineered to unleash your full potential and conquer the game. Dominate the pitch with precision, power, and style.",
+    "bootId": 1
+  },
+  {
+    "name": "adidas X Crazyfast Elite Laceless",
+    "colorway": "Team Solar Yellow/Core Black/White",
+    "brand": "adidas",
+    "price": 230,
+    "popular": false,
+    "image": {
+      "image1": "/BootImgs/adidas/x/Picture1.jpg",
+      "image2": "/BootImgs/adidas/x/Picture2.jpg",
+      "image3": "/BootImgs/adidas/x/Picture3.jpg",
+      "image4": "/BootImgs/adidas/x/Picture4.jpg"
+    },
+    "size": {
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": false,
+      "10": true,
+      "11": true,
+      "12": false,
+      "13": false
+    },
+    "description": "Introducing the Adidas X Crazyfast Elite Laceless Football Boots, designed for the players who thrive on speed and agility. With a revolutionary laceless design, these boots offer a seamless, glove-like fit for enhanced control and precision on the pitch.<br></br>Crafted with Adidas' innovative technology, the Crazyfast Elite Laceless boots feature a lightweight yet durable upper that molds to your foot, providing a snug and responsive feel. The absence of laces reduces distractions and ensures a clean striking surface for optimal ball control and accuracy.<br></br>Equipped with a low-profile outsole engineered for explosive speed, these boots deliver unparalleled traction and agility, allowing you to accelerate past defenders with ease. The streamlined silhouette and dynamic design make a bold statement on the field, while the vibrant colorways add flair to your game.<br></br>Whether you're making lightning-fast runs down the wing or unleashing powerful shots on goal, the Adidas X Crazyfast Elite Laceless Football Boots are designed to help you reach your full potential and leave your mark on the game. Dominate the pitch with speed, style, and precision like never before.",
+
+    "bootId": 2
+  },
+  {
+    "name": "adidas Copa Pure 2 Elite",
+    "colorway": "Ivory/Core Black/Solar Red",
+    "brand": "adidas",
+    "price": 200,
+    "popular": false,
+    "image": {
+      "image1": "/BootImgs/adidas/copa/Picture1.jpg",
+      "image2": "/BootImgs/adidas/copa/Picture2.jpg",
+      "image3": "/BootImgs/adidas/copa/Picture3.jpg",
+      "image4": "/BootImgs/adidas/copa/Picture4.jpg"
+    },
+    "size": {
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": false,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": false
+    },
+    "description": "Introducing the Adidas Copa Pure 2 Elite Football Boots, meticulously engineered to elevate your game with a perfect blend of tradition and innovation. Crafted with precision and attention to detail, these boots are designed to meet the demands of modern footballers.<br></br>The Copa Pure 2 Elite combines classic styling with cutting-edge technology to provide the ultimate performance on the pitch. The premium kangaroo leather upper offers superior touch and control, allowing you to manipulate the ball with finesse and accuracy.<br></br>Featuring an innovative compression tongue design, these boots provide a snug and secure fit, ensuring stability and support during every movement. The anatomical laceless construction reduces distractions and provides a clean striking surface for optimal ball contact.<br></br>Equipped with Adidas' signature Boost technology in the midsole, the Copa Pure 2 Elite delivers responsive cushioning and energy return, enhancing your comfort and agility throughout the game. The lightweight yet durable outsole is designed for maximum traction and agility, allowing you to maneuver with confidence on any surface.<br></br>Whether you're orchestrating plays in midfield or delivering pinpoint crosses into the box, the Adidas Copa Pure 2 Elite Football Boots are engineered to enhance your performance and elevate your game to new heights. Dominate the pitch with style, precision, and unparalleled comfort.",
+
+    "bootId": 3
+  },
+  {
+    "name": "Nike Air Zoom Mercurial Vapor XV Elite",
+    "colorway": "Lemonade/Black",
+    "brand": "nike",
+    "price": 235,
+    "image": {
+      "image1": "/BootImgs/nike/mercurial/vapor/LemonadeBlack/Picture1.jpg",
+      "image2": "/BootImgs/nike/mercurial/vapor/LemonadeBlack/Picture2.jpg",
+      "image3": "/BootImgs/nike/mercurial/vapor/LemonadeBlack/Picture3.jpg",
+      "image4": "/BootImgs/nike/mercurial/vapor/LemonadeBlack/picture4.jpg"
+    },
+    "size": {
+      "4": true,
+      "5": true,
+      "6": false,
+      "7": true,
+      "8": false,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": false
+    },
+    "description": "Introducing the Nike Air Zoom Mercurial Vapor XV Elite Football Boots, a pinnacle of innovation and performance designed to propel your game to new heights. Crafted with meticulous attention to detail, these boots are engineered to deliver the speed, agility, and precision demanded by elite footballers.<br></br>Featuring Nike's signature Air Zoom technology, the Mercurial Vapor XV Elite provides responsive cushioning and explosive energy return with every step. The lightweight Flyknit upper offers a snug and supportive fit, while the Dynamic Fit collar ensures seamless integration between foot and ankle for enhanced stability and control.<br></br>Designed for the fastest players on the pitch, the Mercurial Vapor XV Elite features a high-traction outsole with strategically placed studs for maximum grip and acceleration. The anatomical soleplate is engineered to optimize agility and responsiveness, allowing you to change direction with lightning speed.<br></br>With its sleek and aerodynamic design, inspired by the iconic Mercurial series, these boots make a bold statement on the field. Whether you're sprinting past defenders or unleashing powerful shots on goal, the Nike Air Zoom Mercurial Vapor XV Elite Football Boots are engineered to help you outpace the competition and dominate the game. Elevate your performance with speed, style, and precision like never before.",
+
+    "bootId": 4
+  },
+  {
+    "name": "Nike Air Zoom Mercurial Superfly IX Elite",
+    "colorway": "Lemonade/Black",
+    "brand": "nike",
+    "price": 255,
+    "popular": true,
+    "image": {
+      "image1": "/BootImgs/nike/mercurial/superfly/LemonadeBlack/Picture1.jpg",
+      "image2": "/BootImgs/nike/mercurial/superfly/LemonadeBlack/Picture2.jpg",
+      "image3": "/BootImgs/nike/mercurial/superfly/LemonadeBlack/Picture3.jpg",
+      "image4": "/BootImgs/nike/mercurial/superfly/LemonadeBlack/Picture4.jpg"
+    },
+    "size": {
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": false
+    },
+    "description": "Introducing the Nike Air Zoom Mercurial Superfly IX Elite Football Boots, a fusion of cutting-edge technology and iconic design, engineered to elevate your performance on the pitch. Crafted with precision and innovation, these boots are designed for the dynamic and agile player seeking ultimate speed and control.<br></br>Featuring Nike's renowned Air Zoom technology, the Mercurial Superfly IX Elite delivers responsive cushioning and explosive energy return with every stride. The Flyknit upper molds to your foot like a second skin, providing a snug and supportive fit for enhanced agility and precision.<br></br>Equipped with a dynamic collar that integrates seamlessly with the foot and ankle, these boots offer stability and lockdown support during quick cuts and explosive movements. The lightweight yet durable outsole is designed for maximum traction and acceleration, allowing you to outmaneuver opponents with ease.<br></br>Inspired by the iconic Mercurial series, the Superfly IX Elite boasts a sleek and aerodynamic design that exudes style and confidence on the field. Whether you're dribbling past defenders or delivering pinpoint passes, these boots are engineered to help you unleash your full potential and dominate the game.<br></br>Take your game to the next level with the Nike Air Zoom Mercurial Superfly IX Elite Football Boots and experience speed, precision, and control like never before. Elevate your performance and leave your mark on the pitch.",
+
+    "bootId": 5
+  },
+  {
+    "name": "Nike Phantom GX Elite",
+    "colorway": "Hyper Turq/Black/Fuchsia Dream/White",
+    "brand": "nike",
+    "price": 235,
+    "popular": true,
+    "image": {
+      "image1": "/BootImgs/nike/phantom/Picture1.jpg",
+      "image2": "/BootImgs/nike/phantom/Picture2.jpg",
+      "image3": "/BootImgs/nike/phantom/Picture3.jpg",
+      "image4": "/BootImgs/nike/phantom/Picture4.jpg"
+    },
+    "size": {
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": false,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": false
+    },
+    "description": "Introducing the Nike Phantom GX Elite Football Boots, meticulously engineered to empower your game with precision, control, and agility. Crafted with innovation and performance in mind, these boots are designed to meet the demands of the modern player.<br></br>Featuring Nike's revolutionary Flyknit technology, the Phantom GX Elite offers a seamless and adaptive fit that wraps around your foot like a second skin. This dynamic fit ensures superior lockdown and stability, allowing you to make quick cuts and explosive movements with confidence.<br></br>Equipped with Nike's Hyperprecision soleplate, these boots deliver exceptional traction and responsiveness on the pitch. The innovative stud configuration enhances grip and agility, enabling you to accelerate, change direction, and stop on a dime.<br></br>Designed for the playmaker who dictates the pace of the game, the Phantom GX Elite features precision-engineered zones on the upper to optimize ball control and touch. Whether you're threading through passes, dribbling past defenders, or striking on goal, these boots provide the ultimate platform for creativity and precision.<br></br>With its sleek and futuristic design, the Nike Phantom GX Elite makes a bold statement on the field. Elevate your game with the Nike Phantom GX Elite Football Boots and experience unrivaled control, agility, and performance. Dominate the pitch with confidence and style.",
+
+    "bootId": 6
+  },
+  {
+    "name": "Nike Tiempo Legend X Elite",
+    "colorway": "Lemonade/Black/Metallic Gold Coin",
+    "brand": "nike",
+    "price": 230,
+    "popular": false,
+    "image": {
+      "image1": "/BootImgs/nike/tiempo/Picture1.jpg",
+      "image2": "/BootImgs/nike/tiempo/Picture2.jpg",
+      "image3": "/BootImgs/nike/tiempo/Picture3.jpg",
+      "image4": "/BootImgs/nike/tiempo/Picture4.jpg"
+    },
+    "size": {
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": false,
+      "11": false,
+      "12": true,
+      "13": false
+    },
+    "description": "Introducing the Nike Tiempo Legend X Elite Football Boots, crafted to embody the perfect balance of tradition and innovation, designed for the modern player who values timeless style and elite performance.<br></br>Constructed with premium kangaroo leather, the Tiempo Legend X Elite offers unparalleled touch and feel on the ball, allowing for precise passes, accurate shots, and exquisite control. The classic fold-over tongue pays homage to the heritage of the Tiempo line while providing a snug and secure fit.<br></br>Equipped with Nike's Flyknit technology, these boots feature a lightweight and breathable upper that molds to the shape of your foot for a customized and comfortable fit. The Flyknit construction enhances stability and support, providing confidence in every movement on the pitch.<br></br>Engineered with a hyperstability soleplate, the Tiempo Legend X Elite delivers exceptional traction and responsiveness, allowing you to maneuver with agility and confidence on any surface. The conical studs are strategically placed for optimal grip and acceleration, ensuring quick cuts and explosive bursts of speed.<br></br>Whether you're orchestrating plays in midfield or marshaling the defense, the Nike Tiempo Legend X Elite Football Boots are designed to enhance your performance and elevate your game to new heights. Dominate the pitch with precision, elegance, and undeniable style.",
+
+    "bootId": 7
+  },
+  {
+    "name": "Puma Ultra Ultimate",
+    "colorway": "Poison Pink/Puma White/Puma Black",
+    "brand": "puma",
+    "price": 200,
+    "popular": true,
+    "image": {
+      "image1": "/BootImgs/puma/ultra/Picture1.jpg",
+      "image2": "/BootImgs/puma/ultra/Picture2.jpg",
+      "image3": "/BootImgs/puma/ultra/Picture3.jpg",
+      "image4": "/BootImgs/puma/ultra/Picture4.jpg"
+    },
+    "size": {
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": false
+    },
+    "description": "Introducing the Puma Ultra Ultimate Football Boots, meticulously engineered to unlock your maximum speed and agility on the pitch. Crafted with precision and innovation, these boots are designed for the explosive player who thrives on speed and precision.<br></br>Featuring Puma's cutting-edge MATRYXEVO technology, the Ultra Ultimate offers a lightweight yet durable construction that molds to your foot for a snug and responsive fit. The innovative woven upper provides exceptional support and stability, allowing you to unleash your full potential with confidence.<br></br>Equipped with a lightweight Pebax outsole, these boots deliver unparalleled traction and acceleration, enabling you to outmaneuver opponents with lightning-fast speed. The aggressive stud configuration is strategically designed for explosive bursts and quick changes of direction, ensuring you stay one step ahead of the competition.<br></br>Designed for the player who demands the ultimate in speed and performance, the Puma Ultra Ultimate Football Boots feature a sleek and dynamic design that commands attention on the pitch. Whether you're sprinting past defenders or delivering precise passes, these boots are engineered to help you dominate the game and achieve victory.<br></br>Experience the pinnacle of speed and agility with the Puma Ultra Ultimate Football Boots and elevate your performance to new heights. Unleash your speed, precision, and power like never before and leave your mark on the pitch.",
+
+    "bootId": 8
+  },
+  {
+    "name": "Puma Future Ultimate",
+    "colorway": "Sedate Gray/Asphalt/Yellow Blaze",
+    "brand": "puma",
+    "price": 200,
+    "popular": false,
+    "image": {
+      "image1": "/BootImgs/puma/future/SedateGrayAsphaltYellowBlaze/Picture1.jpg",
+      "image2": "/BootImgs/puma/future/SedateGrayAsphaltYellowBlaze/Picture2.jpg",
+      "image3": "/BootImgs/puma/future/SedateGrayAsphaltYellowBlaze/Picture3.jpg",
+      "image4": "/BootImgs/puma/future/SedateGrayAsphaltYellowBlaze/Picture4.jpg"
+    },
+    "size": {
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": false
+    },
+    "description": "Introducing the Puma Future Ultimate Football Boots, meticulously engineered to redefine agility and precision on the pitch. Crafted with innovation and performance in mind, these boots are designed for the dynamic player who thrives on creativity and unpredictability.<br></br>Featuring Puma's revolutionary evoKNIT technology, the Future Ultimate offers a seamless and adaptive fit that wraps around your foot like a second skin. This dynamic fit ensures superior lockdown and stability, allowing you to make quick cuts and explosive movements with confidence.<br></br>Equipped with a lightweight yet responsive outsole, these boots deliver exceptional traction and agility on the pitch. The aggressive stud configuration is strategically designed for explosive bursts and quick changes of direction, ensuring you stay one step ahead of the competition.<br></br>Designed for the playmaker who dictates the pace of the game, the Puma Future Ultimate features precision-engineered zones on the upper to optimize ball control and touch. Whether you're threading through passes, dribbling past defenders, or striking on goal, these boots provide the ultimate platform for creativity and precision.<br></br>With its sleek and futuristic design, the Puma Future Ultimate makes a bold statement on the field. Elevate your game with the Puma Future Ultimate Football Boots and experience unrivaled agility, precision, and performance. Dominate the pitch with confidence and style.",
+
+    "bootId": 9
+  },
+  {
+    "name": "Puma King Ultimate",
+    "colorway": "Electric Lime/Puma Black/Poison Pink",
+    "brand": "puma",
+    "price": 190,
+    "popular": true,
+    "image": {
+      "image1": "/BootImgs/puma/king/Picture1.jpg",
+      "image2": "/BootImgs/puma/king/Picture2.jpg",
+      "image3": "/BootImgs/puma/king/Picture3.jpg",
+      "image4": "/BootImgs/puma/king/Picture4.jpg"
+    },
+    "size": {
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": false
+    },
+    "description": "Introducing the Puma King Ultimate Football Boots, crafted to embody the perfect fusion of heritage and innovation, designed for the discerning player who values timeless style and elite performance.<br></br>Constructed with premium kangaroo leather, the Puma King Ultimate offers unparalleled touch and feel on the ball, allowing for precise passes, accurate shots, and exquisite control. The classic fold-over tongue pays homage to the rich heritage of the Puma King line while providing a snug and secure fit.<br></br>Equipped with Puma's cutting-edge RAPIDSPRINT outsole, these boots deliver exceptional traction and responsiveness, allowing you to maneuver with agility and confidence on any surface. The conical studs are strategically placed for optimal grip and acceleration, ensuring quick cuts and explosive bursts of speed.<br></br>Designed for the player who demands the ultimate in comfort and performance, the Puma King Ultimate Football Boots feature a sleek and timeless design that commands attention on the pitch. Whether you're orchestrating plays in midfield or delivering pinpoint crosses into the box, these boots are engineered to enhance your performance and elevate your game to new heights.<br></br>Experience the pinnacle of comfort, style, and performance with the Puma King Ultimate Football Boots and dominate the pitch with confidence and flair.",
+
+    "bootId": 10
+  },
+  {
+    "name": "New Balance Furon V7 Pro",
+    "colorway": "Silver",
+    "brand": "new balance",
+    "price": 210,
+    "popular": true,
+    "image": {
+      "image1": "/BootImgs/new balance/furon/Silver/Picture1.jpg",
+      "image2": "/BootImgs/new balance/furon/Silver/Picture2.jpg",
+      "image3": "/BootImgs/new balance/furon/Silver/Picture3.jpg",
+      "image4": "/BootImgs/new balance/furon/Silver/Picture4.jpg"
+    },
+    "size": {
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": false
+    },
+    "description": "Introducing the New Balance Furon V7 Pro Football Boots, engineered for the modern striker who demands speed, precision, and power. Crafted with precision and innovation, these boots are designed to unleash your full potential on the pitch.<br></br>Featuring New Balance's innovative FantomFit technology, the Furon V7 Pro offers a lightweight and responsive fit that molds to your foot for a snug and supportive feel. The streamlined silhouette and low-profile design enhance agility and acceleration, allowing you to burst past defenders with explosive speed.<br></br>Equipped with a lightweight yet durable outsole, these boots deliver exceptional traction and agility on firm ground surfaces. The directional stud configuration is strategically designed for quick cuts and dynamic movements, ensuring you maintain control and stability in every stride.<br></br>Designed for the player who thrives on scoring goals and making game-changing plays, the New Balance Furon V7 Pro features a clean and modern design that exudes confidence and style on the pitch. Whether you're racing toward goal or unleashing powerful shots from distance, these boots are engineered to help you dominate the game and leave your mark.<br></br>Experience the ultimate blend of speed, precision, and power with the New Balance Furon V7 Pro Football Boots and elevate your performance to new heights. Dominate the pitch with confidence and flair, and lead your team to victory.",
+
+    "bootId": 11
+  },
+  {
+    "name": "New Balance Tekela V4 Low Pro",
+    "colorway": "Copper/Black",
+    "brand": "new balance",
+    "price": 210,
+    "popular": false,
+    "image": {
+      "image1": "/BootImgs/new balance/tekela/low/Picture1.jpg",
+      "image2": "/BootImgs/new balance/tekela/low/Picture2.jpg",
+      "image3": "/BootImgs/new balance/tekela/low/Picture3.jpg",
+      "image4": "/BootImgs/new balance/tekela/low/Picture4.jpg"
+    },
+    "size": {
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": false
+    },
+    "description": "Introducing the New Balance Tekela V4 Low Pro Football Boots, meticulously engineered to empower the dynamic playmaker with unrivaled agility, control, and precision. Crafted with innovation and performance in mind, these boots are designed to elevate your game to new heights.<br></br>Featuring New Balance's innovative Kinetic Stitch technology, the Tekela V4 Low Pro offers a seamless and adaptive fit that wraps around your foot for enhanced stability and control. This dynamic fit ensures superior responsiveness and agility, allowing you to maneuver with confidence on the pitch.<br></br>Equipped with a lightweight and flexible outsole, these boots deliver exceptional traction and agility on firm ground surfaces. The unique stud configuration is strategically designed for quick cuts and dynamic movements, ensuring you stay one step ahead of the competition.<br></br>Designed for the player who dictates the tempo of the game, the New Balance Tekela V4 Low Pro features precision-engineered zones on the upper to optimize ball control and touch. Whether you're threading through passes, dribbling past defenders, or striking on goal, these boots provide the ultimate platform for creativity and precision.<br></br>With its sleek and modern design, the New Balance Tekela V4 Low Pro makes a bold statement on the field. Elevate your game with the New Balance Tekela V4 Low Pro Football Boots and experience unrivaled agility, control, and performance. Dominate the pitch with confidence and style.",
+
+    "bootId": 12
+  },
+  {
+    "name": "New Balance Tekela V4 Pro",
+    "colorway": "Copper/Black",
+    "brand": "new balance",
+    "price": 210,
+    "popular": true,
+    "image": {
+      "image1": "/BootImgs/new balance/tekela/high/Picture1.jpg",
+      "image2": "/BootImgs/new balance/tekela/high/Picture2.jpg",
+      "image3": "/BootImgs/new balance/tekela/high/Picture3.jpg",
+      "image4": "/BootImgs/new balance/tekela/high/Picture4.jpg"
+    },
+    "size": {
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": false
+    },
+    "description": "Introducing the New Balance Tekela V4 Pro Football Boots, meticulously engineered to unleash the potential of dynamic players seeking precision, agility, and control. Crafted with innovation and performance in mind, these boots are designed to elevate your game to new heights.<br></br>Featuring New Balance's innovative Kinetic Stitch technology, the Tekela V4 Pro offers a seamless and adaptive fit that wraps around your foot for enhanced stability and control. This dynamic fit ensures superior responsiveness and agility, enabling you to maneuver with confidence on the pitch.<br></br>Equipped with a lightweight and flexible outsole, these boots deliver exceptional traction and agility on firm ground surfaces. The unique stud configuration is strategically designed for quick cuts and dynamic movements, ensuring you maintain control and stability in every stride.<br></br>Designed for the playmaker who dictates the tempo of the game, the New Balance Tekela V4 Pro features precision-engineered zones on the upper to optimize ball control and touch. Whether you're threading through passes, dribbling past defenders, or striking on goal, these boots provide the ultimate platform for creativity and precision.<br></br>With its sleek and modern design, the New Balance Tekela V4 Pro makes a bold statement on the field. Elevate your game with the New Balance Tekela V4 Pro Football Boots and experience unrivaled agility, control, and performance. Dominate the pitch with confidence and style.",
+
+    "bootId": 13
+  },
+  {
+    "name": "adidas Predator Elite Tongue",
+    "colorway": "Core Black/Off White/Legacy Burgundy",
+    "brand": "adidas",
+    "price": 240,
+    "popular": true,
+    "image": {
+      "image1": "/BootImgs/adidas/predator/adidasPredatorEliteTongueFG/CoreBlackOffWhiteLegacyBurgundy/Picture1.jpg",
+      "image2": "/BootImgs/adidas/predator/adidasPredatorEliteTongueFG/CoreBlackOffWhiteLegacyBurgundy/Picture2.jpg",
+      "image3": "/BootImgs/adidas/predator/adidasPredatorEliteTongueFG/CoreBlackOffWhiteLegacyBurgundy/Picture3.jpg",
+      "image4": "/BootImgs/adidas/predator/adidasPredatorEliteTongueFG/CoreBlackOffWhiteLegacyBurgundy/Picture4.jpg"
+    },
+    "size": {
+      "4": true,
+      "5": true,
+      "6": false,
+      "7": false,
+      "8": true,
+      "9": false,
+      "10": false,
+      "11": true,
+      "12": true,
+      "13": false
+    },
+    "description": "Introducing the Predator Elite Foldover Tongue Firm Ground Football Boots, engineered to elevate your game to the next level.<br></br>Designed with precision and crafted for performance, these boots are the ultimate weapon on the pitch.<br></br>Featuring a foldover tongue design, these boots provide a snug and secure fit, ensuring maximum stability and control during every move. The firm ground soleplate offers unparalleled traction, allowing you to maneuver with agility and confidence on the field.<br></br>Constructed with premium materials, including a durable synthetic upper and strategically placed padding, these boots offer enhanced protection and comfort throughout the game. The Predator technology embedded in the forefoot enhances ball control, giving you the edge to dominate the competition.<br></br>Whether you're dribbling past defenders or striking the winning goal, the Predator Elite Foldover Tongue Firm Ground Football Boots are engineered to unleash your full potential and conquer the game. Dominate the pitch with precision, power, and style.",
+
+    "bootId": 14
+  },
+  {
+    "name": "adidas Predator Elite Tongue",
+    "colorway": "Solar Red/Core Black/Team Solar Yellow",
+    "brand": "adidas",
+    "price": 240,
+    "popular": true,
+    "image": {
+      "image1": "/BootImgs/adidas/predator/adidasPredatorEliteTongueFG/SolarRedCoreBlackTeamSolarYellow/Picture1.jpg",
+      "image2": "/BootImgs/adidas/predator/adidasPredatorEliteTongueFG/SolarRedCoreBlackTeamSolarYellow/Picture2.jpg",
+      "image3": "/BootImgs/adidas/predator/adidasPredatorEliteTongueFG/SolarRedCoreBlackTeamSolarYellow/Picture3.jpg",
+      "image4": "/BootImgs/adidas/predator/adidasPredatorEliteTongueFG/SolarRedCoreBlackTeamSolarYellow/Picture4.jpg"
+    },
+    "size": {
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": false,
+      "8": false,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": false
+    },
+    "description": "Introducing the Predator Elite Foldover Tongue Firm Ground Football Boots, engineered to elevate your game to the next level.<br></br>Designed with precision and crafted for performance, these boots are the ultimate weapon on the pitch.<br></br>Featuring a foldover tongue design, these boots provide a snug and secure fit, ensuring maximum stability and control during every move. The firm ground soleplate offers unparalleled traction, allowing you to maneuver with agility and confidence on the field.<br></br>Constructed with premium materials, including a durable synthetic upper and strategically placed padding, these boots offer enhanced protection and comfort throughout the game. The Predator technology embedded in the forefoot enhances ball control, giving you the edge to dominate the competition.<br></br>Whether you're dribbling past defenders or striking the winning goal, the Predator Elite Foldover Tongue Firm Ground Football Boots are engineered to unleash your full potential and conquer the game. Dominate the pitch with precision, power, and style.",
+
+    "bootId": 15
+  },
+  {
+    "name": "adidas Predator Elite Tongue",
+    "colorway": "White/Silver Met/White",
+    "brand": "adidas",
+    "price": 240,
+    "popular": true,
+    "image": {
+      "image1": "/BootImgs/adidas/predator/adidasPredatorEliteTongueFG/WhiteSilverMetWhite/Picture1.jpg",
+      "image2": "/BootImgs/adidas/predator/adidasPredatorEliteTongueFG/WhiteSilverMetWhite/Picture2.jpg",
+      "image3": "/BootImgs/adidas/predator/adidasPredatorEliteTongueFG/WhiteSilverMetWhite/Picture3.jpg",
+      "image4": "/BootImgs/adidas/predator/adidasPredatorEliteTongueFG/WhiteSilverMetWhite/Picture4.jpg"
+    },
+    "size": {
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": false,
+      "8": false,
+      "9": false,
+      "10": false,
+      "11": true,
+      "12": true,
+      "13": false
+    },
+    "description": "Introducing the Predator Elite Foldover Tongue Firm Ground Football Boots, engineered to elevate your game to the next level.<br></br>Designed with precision and crafted for performance, these boots are the ultimate weapon on the pitch.<br></br>Featuring a foldover tongue design, these boots provide a snug and secure fit, ensuring maximum stability and control during every move. The firm ground soleplate offers unparalleled traction, allowing you to maneuver with agility and confidence on the field.<br></br>Constructed with premium materials, including a durable synthetic upper and strategically placed padding, these boots offer enhanced protection and comfort throughout the game. The Predator technology embedded in the forefoot enhances ball control, giving you the edge to dominate the competition.<br></br>Whether you're dribbling past defenders or striking the winning goal, the Predator Elite Foldover Tongue Firm Ground Football Boots are engineered to unleash your full potential and conquer the game. Dominate the pitch with precision, power, and style.",
+
+    "bootId": 16
+  },
+  {
+    "name": "Nike Air Zoom Mercurial Superfly IX Elite MDS",
+    "colorway": "Green Strike/Black/Stadium Green",
+    "brand": "nike",
+    "price": 275,
+    "popular": true,
+    "image": {
+      "image1": "/BootImgs/nike/mercurial/superfly/GreenStrikeBlackStadiumGreen/Picture1.jpg",
+      "image2": "/BootImgs/nike/mercurial/superfly/GreenStrikeBlackStadiumGreen/Picture2.jpg",
+      "image3": "/BootImgs/nike/mercurial/superfly/GreenStrikeBlackStadiumGreen/Picture3.jpg",
+      "image4": "/BootImgs/nike/mercurial/superfly/GreenStrikeBlackStadiumGreen/Picture4.jpg"
+    },
+    "size": {
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    },
+    "description": "Introducing the Nike Air Zoom Mercurial Superfly IX Elite MDS Football Boots, meticulously crafted to redefine speed, agility, and style on the pitch. Born from a fusion of cutting-edge technology and iconic design, these boots are engineered to elevate your game to new heights.<br></br>Featuring Nike's renowned Air Zoom technology, the Mercurial Superfly IX Elite MDS delivers responsive cushioning and explosive energy return with every stride. The lightweight Flyknit upper offers a snug and supportive fit, while the dynamic collar ensures seamless integration between foot and ankle for enhanced stability and control.<br></br>Equipped with a hyperstability soleplate, these boots provide exceptional traction and responsiveness, allowing you to maneuver with agility and confidence on any surface. The strategically placed studs are designed for maximum grip and acceleration, ensuring you stay one step ahead of the competition.<br></br>Designed for the player who thrives on speed and precision, the Mercurial Superfly IX Elite MDS features a sleek and aerodynamic design inspired by the iconic Mercurial series. Whether you're sprinting down the wing or unleashing powerful shots on goal, these boots are engineered to help you outpace the opposition and dominate the game.<br></br>Experience the ultimate blend of speed, agility, and style with the Nike Air Zoom Mercurial Superfly IX Elite MDS Football Boots and elevate your performance to new heights. Dominate the pitch with confidence and flair, and leave your mark on the game.",
+
+    "bootId": 17
+  },
+  {
+    "name": "Nike Air Zoom Mercurial Vapor XV Elite MDS",
+    "colorway": "Green Strike/Black/Stadium Green",
+    "brand": "nike",
+    "price": 260,
+    "popular": true,
+    "image": {
+      "image1": "/BootImgs/nike/mercurial/vapor/GreenStrikeBlackStadiumGreen/Picture1.jpg",
+      "image2": "/BootImgs/nike/mercurial/vapor/GreenStrikeBlackStadiumGreen/Picture2.jpg",
+      "image3": "/BootImgs/nike/mercurial/vapor/GreenStrikeBlackStadiumGreen/Picture3.jpg",
+      "image4": "/BootImgs/nike/mercurial/vapor/GreenStrikeBlackStadiumGreen/Picture4.jpg"
+    },
+    "size": {
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    },
+    "description": "Introducing the Nike Air Zoom Mercurial Vapor XV Elite MDS Football Boots, meticulously engineered to push the boundaries of speed, precision, and style on the pitch. Crafted with innovation and performance in mind, these boots are designed to elevate your game to new heights.<br></br>Built upon Nike's renowned Air Zoom technology, the Mercurial Vapor XV Elite MDS delivers responsive cushioning and explosive energy return with every step. The lightweight Flyknit upper wraps around your foot for a snug and supportive fit, while the low-profile design enhances agility and acceleration.<br></br>Equipped with a hyperstability soleplate, these boots provide exceptional traction and responsiveness, allowing you to maneuver with confidence and control on any surface. The strategically placed studs offer maximum grip and acceleration, ensuring you stay one step ahead of the competition.<br></br>Designed for the player who thrives on speed and precision, the Mercurial Vapor XV Elite MDS features a sleek and aerodynamic design inspired by the iconic Mercurial series. Whether you're making lightning-fast runs down the wing or delivering pinpoint crosses into the box, these boots are engineered to help you outpace the opposition and dominate the game.<br></br>Experience the ultimate fusion of speed, precision, and style with the Nike Air Zoom Mercurial Vapor XV Elite MDS Football Boots and take your performance to new heights. Dominate the pitch with confidence and flair, and leave defenders in your wake.",
+
+    "bootId": 18
+  },
+  {
+    "name": "Puma Future Ultimate",
+    "colorway": "Persian Blue/Pro Green",
+    "brand": "puma",
+    "price": 200,
+    "popular": false,
+    "image": {
+      "image1": "/BootImgs/puma/future/PersianBlueProGreen/Picture1.jpg",
+      "image2": "/BootImgs/puma/future/PersianBlueProGreen/Picture2.jpg",
+      "image3": "/BootImgs/puma/future/PersianBlueProGreen/Picture3.jpg",
+      "image4": "/BootImgs/puma/future/PersianBlueProGreen/Picture4.jpg"
+    },
+    "size": {
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": false
+    },
+    "description": "Introducing the Puma Future Ultimate Football Boots, meticulously engineered to redefine agility and precision on the pitch. Crafted with innovation and performance in mind, these boots are designed for the dynamic player who thrives on creativity and unpredictability.<br></br>Featuring Puma's revolutionary evoKNIT technology, the Future Ultimate offers a seamless and adaptive fit that wraps around your foot like a second skin. This dynamic fit ensures superior lockdown and stability, allowing you to make quick cuts and explosive movements with confidence.<br></br>Equipped with a lightweight yet responsive outsole, these boots deliver exceptional traction and agility on the pitch. The aggressive stud configuration is strategically designed for explosive bursts and quick changes of direction, ensuring you stay one step ahead of the competition.<br></br>Designed for the playmaker who dictates the pace of the game, the Puma Future Ultimate features precision-engineered zones on the upper to optimize ball control and touch. Whether you're threading through passes, dribbling past defenders, or striking on goal, these boots provide the ultimate platform for creativity and precision.<br></br>With its sleek and futuristic design, the Puma Future Ultimate makes a bold statement on the field. Elevate your game with the Puma Future Ultimate Football Boots and experience unrivaled agility, precision, and performance. Dominate the pitch with confidence and style.",
+
+    "bootId": 19
+  },
+  {
+    "name": "New Balance Furon V7 Pro",
+    "colorway": "Dragonfly/Chloro Green",
+    "brand": "new balance",
+    "price": 210,
+    "popular": true,
+    "image": {
+      "image1": "/BootImgs/new balance/furon/DragonflyChloroGreen/Picture1.jpg",
+      "image2": "/BootImgs/new balance/furon/DragonflyChloroGreen/Picture2.jpg",
+      "image3": "/BootImgs/new balance/furon/DragonflyChloroGreen/Picture3.jpg",
+      "image4": "/BootImgs/new balance/furon/DragonflyChloroGreen/Picture4.jpg"
+    },
+    "size": {
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": false
+    },
+    "description": "Introducing the New Balance Furon V7 Pro Football Boots, engineered for the modern striker who demands speed, precision, and power. Crafted with precision and innovation, these boots are designed to unleash your full potential on the pitch.<br></br>Featuring New Balance's innovative FantomFit technology, the Furon V7 Pro offers a lightweight and responsive fit that molds to your foot for a snug and supportive feel. The streamlined silhouette and low-profile design enhance agility and acceleration, allowing you to burst past defenders with explosive speed.<br></br>Equipped with a lightweight yet durable outsole, these boots deliver exceptional traction and agility on firm ground surfaces. The directional stud configuration is strategically designed for quick cuts and dynamic movements, ensuring you maintain control and stability in every stride.<br></br>Designed for the player who thrives on scoring goals and making game-changing plays, the New Balance Furon V7 Pro features a clean and modern design that exudes confidence and style on the pitch. Whether you're racing toward goal or unleashing powerful shots from distance, these boots are engineered to help you dominate the game and leave your mark.<br></br>Experience the ultimate blend of speed, precision, and power with the New Balance Furon V7 Pro Football Boots and elevate your performance to new heights. Dominate the pitch with confidence and flair, and lead your team to victory.",
+
+    "bootId": 20
+  },
+  {
+    "name": "Nike Air Zoom Mercurial Vapor XV Elite",
+    "colorway": "Orange/Black",
+    "brand": "nike",
+    "price": 260,
+    "popular": true,
+    "image": {
+      "image1": "/BootImgs/nike/mercurial/vapor/orange/Picture1.jpg",
+      "image2": "/BootImgs/nike/mercurial/vapor/orange/Picture2.jpg",
+      "image3": "/BootImgs/nike/mercurial/vapor/orange/Picture3.jpg",
+      "image4": "/BootImgs/nike/mercurial/vapor/orange/Picture4.jpg"
+    },
+    "size": {
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    },
+    "description": "Introducing the Nike Mercurial Vapor 15 x Air Max Plus, a fusion of two iconic designs, combining the speed and agility of the Mercurial Vapor with the Air Max Plus's legendary cushioning and comfort.<br></br>Engineered for the modern athlete, these innovative football boots redefine performance on the pitch. The sleek and aerodynamic silhouette of the Mercurial Vapor is enhanced with the bold and dynamic design elements of the Air Max Plus, creating a striking look that demands attention.<br></br>Featuring Nike's cutting-edge technologies, these boots provide unrivaled support, stability, and responsiveness. The lightweight upper is constructed with premium materials, offering a snug and secure fit that molds to your foot for maximum control and agility. The innovative stud configuration on the outsole delivers explosive acceleration and sharp directional changes, empowering you to leave defenders in the dust.<br></br>With the Air Max Plus's signature Air-Sole unit in the heel, these boots provide superior cushioning and impact protection, ensuring comfort and support throughout the game. Whether you're sprinting down the wing, cutting through midfield, or striking for goal, the Nike Mercurial Vapor 15 x Air Max Plus is designed to elevate your performance and dominate the competition.<br></br>Unleash your full potential on the pitch with the Nike Mercurial Vapor 15 x Air Max Plus. Dare to stand out, dare to be different, and let your game do the talking.",
+
+    "bootId": 21
+  }
+]
