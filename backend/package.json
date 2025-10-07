@@ -4,8 +4,9 @@
   "description": "Football e-commerce store",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon server.js",
-    "start:prod": "cross-env NODE_ENV=production node server.js"
+    "start": "node server.js",
+    "start:dev": "nodemon server.js",
+    "start:prod": "node server.js"
   },
   "author": "Luis Le Paih",
   "license": "ISC",
