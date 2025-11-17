@@ -1,6 +1,6 @@
 // const { signup, signin, signout } = require('../controllers/auth2Controller');
 const { signup, login, logout } = require('../controllers/authController');
-const { userVerification } = require('../Middlewares/AuthMiddleware');
+const { userVerification } = require('../middlewares/authMiddleware');
 const router = require('express').Router();
 
 router.post('/signup', signup);
