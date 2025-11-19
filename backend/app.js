@@ -31,16 +31,38 @@ app.use('/api', limiter); //affects all the routes that start with /api
 
 // app.use(express.static(path.join(__dirname, 'public')));
 
+const allowedOrigins = [
+  'http://127.0.0.1:5000',
+  'http://localhost:5000',
+  'https://goal-direct-fullstack.vercel.app',
+];
+
 app.use(
   cors({
-    origin: [
-      // 'http://127.0.0.1:5000',
-      'https://goal-direct-fullstack.vercel.app/',
-    ],
+    origin: function (origin, callback) {
+      if (!origin) return callback(null, true); // allow server-to-server & postman
+
+      if (allowedOrigins.includes(origin)) {
+        return callback(null, origin);
+      }
+
+      return callback(new Error('Not allowed by CORS'));
+    },
     credentials: true,
-    method: ['GET', 'POST'],
+    methods: ['GET', 'POST', 'PATCH', 'DELETE'],
   }),
 );
+
+// app.use(
+//   cors({
+//     origin: [
+//       // 'http://127.0.0.1:5000',
+//       'https://goal-direct-fullstack.vercel.app/',
+//     ],
+//     credentials: true,
+//     method: ['GET', 'POST'],
+//   }),
+// );
 
 // Middleware to parse JSON bodies
 app.use(
