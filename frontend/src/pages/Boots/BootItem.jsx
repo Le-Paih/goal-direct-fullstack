@@ -30,6 +30,7 @@ import { useDispatch } from "react-redux";
 import { addItemToCart } from "../../slice/cartSlice";
 import { AuthContext } from "../../context/authContext";
 import FullscreenSpinner from "../../ui/Spinner";
+import axios from "axios";
 
 const KlarnaDiv = styled.div`
   display: flex;
@@ -70,13 +71,27 @@ function BootItem() {
   const [error, setError] = useState(null);
   const api = import.meta.env.VITE_API_URL;
 
+  // useEffect(() => {
+  //   axios
+  //     .get(`${api}/${bootId}`, {
+  //       credentials: "include",
+  //     })
+  //     .then((response) => response.json())
+  //     .then((data) => {
+  //       setBoot(data.data.boot);
+  //       setLoading(false);
+  //     })
+  //     .catch((error) => {
+  //       setError(error.message);
+  //       setLoading(false);
+  //     });
+  // }, [api, bootId]);
+
   useEffect(() => {
-    fetch(`${api}/${bootId}`, {
-      credentials: "include",
-    })
-      .then((response) => response.json())
-      .then((data) => {
-        setBoot(data.data.boot);
+    axios
+      .get(`${api}/${bootId}`, { withCredentials: true })
+      .then((response) => {
+        setBoot(response.data.data.boot);
         setLoading(false);
       })
       .catch((error) => {
