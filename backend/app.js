@@ -36,7 +36,10 @@ app.use(express.static(path.join(__dirname, '../frontend/dist')));
 
 app.use(
   cors({
-    origin: 'http://127.0.0.1:5000',
+    origin: [
+      'http://127.0.0.1:5000',
+      'https://goal-direct-fullstack.vercel.app/',
+    ],
     credentials: true,
     method: ['GET', 'POST'],
   }),
