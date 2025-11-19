@@ -14,9 +14,12 @@ export function DataProvider({ children }) {
     const fetchData = async () => {
       try {
         const [bootsRes, kitsRes] = await Promise.all([
-          axios.get(`${api}/boots`, {
-            withCredentials: true,
-          }),
+          axios.get(
+            `https://goal-direct-fullstack-4.onrender.com/api/v1/boots`,
+            {
+              withCredentials: true,
+            }
+          ),
           axios.get(`${api}/kits`, {
             withCredentials: true,
           }),
