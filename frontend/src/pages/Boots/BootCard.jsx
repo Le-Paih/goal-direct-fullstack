@@ -31,7 +31,7 @@ function BootCard({ image, name, price, id }) {
 
   return (
     <Tile onClick={() => navigate(`/boots/${id}`)}>
-      <TileImg src={`http://127.0.0.1:3000${image}`} />
+      <TileImg src={`https://goal-direct-fullstack-4.onrender.com${image}`} />
       <TileName>{name}</TileName>
       <TilePrice>£{price}</TilePrice>
     </Tile>

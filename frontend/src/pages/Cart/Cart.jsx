@@ -29,6 +29,7 @@ import CheckoutButton from "./CheckoutButton";
 function CartTest() {
   const dispatch = useDispatch();
   const { user } = useContext(AuthContext);
+  const api = import.meta.env.VITE_API_URL;
 
   const { items = [], bill } = useSelector((state) => state.cart);
 
@@ -56,7 +57,7 @@ function CartTest() {
     }
 
     try {
-      await axios.delete("http://127.0.0.1:3000/api/v1/cart/remove", {
+      await axios.delete(`${api}/cart/remove`, {
         data: { itemId, itemType, size, quantity },
         withCredentials: true,
       });
@@ -116,7 +117,7 @@ function CartTest() {
                   <ProductCard key={item._id}>
                     <ProdLeft>
                       <Img
-                        src={`http://127.0.0.1:3000${item.image}`}
+                        src={`https://goal-direct-fullstack-4.onrender.com${item.image}`}
                         alt={item.name}
                         $type={item.itemType}
                       />

@@ -9,6 +9,7 @@ export function AuthProvider({ children }) {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const [user, setUser] = useState(null);
   const dispatch = useDispatch();
+  const api = import.meta.env.VITE_API_URL;
 
   useEffect(() => {
     const token = localStorage.getItem("authToken");
@@ -30,11 +31,7 @@ export function AuthProvider({ children }) {
 
   const logout = async () => {
     try {
-      await axios.get(
-        "http://127.0.0.1:3000/api/v1/auth/logout",
-        {},
-        { withCredentials: true }
-      );
+      await axios.get(`${api}/auth/logout`, {}, { withCredentials: true });
       localStorage.removeItem("authToken");
       localStorage.removeItem("user");
       setIsLoggedIn(false);

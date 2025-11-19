@@ -68,9 +68,10 @@ function BootItem() {
   const [boot, setBoot] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+  const api = import.meta.env.VITE_API_URL;
 
   useEffect(() => {
-    fetch(`http://127.0.0.1:3000/api/v1/boots/${bootId}`, {
+    fetch(`${api}/${bootId}`, {
       credentials: "include",
     })
       .then((response) => response.json())
@@ -82,7 +83,7 @@ function BootItem() {
         setError(error.message);
         setLoading(false);
       });
-  }, [bootId]);
+  }, [api, bootId]);
 
   if (loading) return <FullscreenSpinner />;
   if (error) return <p>Error: {error}</p>;
@@ -136,7 +137,7 @@ function BootItem() {
             {Object.values(boot.image).map((image, index) => (
               <div key={index}>
                 <Img
-                  src={`http://127.0.0.1:3000${image}`}
+                  src={`https://goal-direct-fullstack-4.onrender.com${image}`}
                   alt={`Boot ${index + 1}`}
                 />
               </div>

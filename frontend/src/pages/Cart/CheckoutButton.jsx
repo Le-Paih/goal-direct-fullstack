@@ -1,12 +1,14 @@
+import axios from "axios";
 import { useSelector } from "react-redux";
 
 function CheckoutButton() {
   const items = useSelector((state) => state.cart.items);
+  const api = import.meta.env.VITE_API_URL;
 
   const handleCheckout = async () => {
     try {
-      const response = await fetch(
-        "http://localhost:3000/api/v1/checkout/create-checkout-session",
+      const response = await axios.get(
+        `${api}/checkout/create-checkout-session`,
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },
