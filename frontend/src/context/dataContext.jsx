@@ -38,7 +38,7 @@ export function DataProvider({ children }) {
     };
 
     fetchData();
-  }, []);
+  }, [api]);
 
   return (
     <DataContext.Provider
