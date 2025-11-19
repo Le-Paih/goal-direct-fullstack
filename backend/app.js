@@ -29,9 +29,6 @@ const limiter = rateLimit({
 });
 app.use('/api', limiter); //affects all the routes that start with /api
 
-// Serving static files
-// eslint-disable-next-line no-undef
-app.use(express.static(path.join(__dirname, '../frontend/dist')));
 // app.use(express.static(path.join(__dirname, 'public')));
 
 app.use(
@@ -71,6 +68,10 @@ app.use('/api/webhook', webhookRouter);
 app.use((req, res) => {
   res.status(404).send('Route not found');
 });
+
+// Serving static files
+// eslint-disable-next-line no-undef
+app.use(express.static(path.join(__dirname, '../frontend/dist')));
 
 app.get('*', (req, res) => {
   res.sendFile(path.resolve(__dirname, '../frontend/dist', 'index.html'));
