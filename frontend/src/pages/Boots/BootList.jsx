@@ -42,7 +42,7 @@ function BootList() {
               <BootCard
                 key={boot._id}
                 id={boot._id}
-                image={boot.image}
+                image={boot.image.image1}
                 name={boot.name}
                 price={boot.price}
               />
