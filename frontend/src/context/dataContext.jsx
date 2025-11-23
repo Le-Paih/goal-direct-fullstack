@@ -25,8 +25,10 @@ export function DataProvider({ children }) {
           }),
         ]);
 
-        const bootsData = await bootsRes.json();
-        const kitsData = await kitsRes.json();
+        // const bootsData = await bootsRes.json();
+        const bootsData = bootsRes.data;
+        // const kitsData = await kitsRes.json();
+        const kitsData = kitsRes.data;
 
         setBootData(bootsData.data.boots);
         setKitData(kitsData.data.kits);
