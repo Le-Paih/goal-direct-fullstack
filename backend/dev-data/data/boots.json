@@ -266,10 +266,10 @@
     "price": 210,
     "popular": false,
     "image": {
-      "image1": "/BootImgs/new balance/furon/Silver/NBFS1.jpg",
-      "image2": "/BootImgs/new balance/furon/Silver/NBFS2.jpg",
-      "image3": "/BootImgs/new balance/furon/Silver/NBFS3.jpg",
-      "image4": "/BootImgs/new balance/furon/Silver/NBFS4.jpg"
+      "image1": "/BootImgs/new_balance/furon/Silver/NBFS1.jpg",
+      "image2": "/BootImgs/new_balance/furon/Silver/NBFS2.jpg",
+      "image3": "/BootImgs/new_balance/furon/Silver/NBFS3.jpg",
+      "image4": "/BootImgs/new_balance/furon/Silver/NBFS4.jpg"
     },
     "sizes": [
       { "size": 4, "quantity": 10 },
@@ -292,10 +292,10 @@
     "price": 210,
     "popular": false,
     "image": {
-      "image1": "/BootImgs/new balance/tekela/low/CopperBlack/NBTLCP1.jpg",
-      "image2": "/BootImgs/new balance/tekela/low/CopperBlack/NBTLCP2.jpg",
-      "image3": "/BootImgs/new balance/tekela/low/CopperBlack/NBTLCP3.jpg",
-      "image4": "/BootImgs/new balance/tekela/low/CopperBlack/NBTLCP4.jpg"
+      "image1": "/BootImgs/new_balance/tekela/low/CopperBlack/NBTLCP1.jpg",
+      "image2": "/BootImgs/new_balance/tekela/low/CopperBlack/NBTLCP2.jpg",
+      "image3": "/BootImgs/new_balance/tekela/low/CopperBlack/NBTLCP3.jpg",
+      "image4": "/BootImgs/new_balance/tekela/low/CopperBlack/NBTLCP4.jpg"
     },
     "sizes": [
       { "size": 4, "quantity": 10 },
@@ -318,10 +318,10 @@
     "price": 210,
     "popular": false,
     "image": {
-      "image1": "/BootImgs/new balance/tekela/high/CopperBlack/NBTKCB1.jpg",
-      "image2": "/BootImgs/new balance/tekela/high/CopperBlack/NBTKCB2.jpg",
-      "image3": "/BootImgs/new balance/tekela/high/CopperBlack/NBTKCB3.jpg",
-      "image4": "/BootImgs/new balance/tekela/high/CopperBlack/NBTKCB4.jpg"
+      "image1": "/BootImgs/new_balance/tekela/high/CopperBlack/NBTKCB1.jpg",
+      "image2": "/BootImgs/new_balance/tekela/high/CopperBlack/NBTKCB2.jpg",
+      "image3": "/BootImgs/new_balance/tekela/high/CopperBlack/NBTKCB3.jpg",
+      "image4": "/BootImgs/new_balance/tekela/high/CopperBlack/NBTKCB4.jpg"
     },
     "sizes": [
       { "size": 4, "quantity": 10 },
@@ -500,10 +500,10 @@
     "price": 210,
     "popular": false,
     "image": {
-      "image1": "/BootImgs/new balance/furon/DragonflyChloroGreen/NBFDCG1.jpg",
-      "image2": "/BootImgs/new balance/furon/DragonflyChloroGreen/NBFDCG2.jpg",
-      "image3": "/BootImgs/new balance/furon/DragonflyChloroGreen/NBFDCG3.jpg",
-      "image4": "/BootImgs/new balance/furon/DragonflyChloroGreen/NBFDCG4.jpg"
+      "image1": "/BootImgs/new_balance/furon/DragonflyChloroGreen/NBFDCG1.jpg",
+      "image2": "/BootImgs/new_balance/furon/DragonflyChloroGreen/NBFDCG2.jpg",
+      "image3": "/BootImgs/new_balance/furon/DragonflyChloroGreen/NBFDCG3.jpg",
+      "image4": "/BootImgs/new_balance/furon/DragonflyChloroGreen/NBFDCG4.jpg"
     },
     "sizes": [
       { "size": 4, "quantity": 10 },

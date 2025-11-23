@@ -94,7 +94,7 @@ app.use((req, res) => {
 // Serving static files
 // eslint-disable-next-line no-undef
 app.use(express.static(path.join(__dirname, '../frontend/dist')));
-app.use('/img', express.static(path.join(__dirname, '/public/img')));
+app.use('/img', express.static(path.join(__dirname, '/backend/public/img')));
 
 app.get('*', (req, res) => {
   res.sendFile(path.resolve(__dirname, '../frontend/dist', 'index.html'));
