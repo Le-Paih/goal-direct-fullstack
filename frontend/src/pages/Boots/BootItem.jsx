@@ -89,9 +89,12 @@ function BootItem() {
 
   useEffect(() => {
     axios
-      .get(`https://goal-direct-fullstack-4.onrender.com/${bootId}`, {
-        withCredentials: true,
-      })
+      .get(
+        `https://goal-direct-fullstack-4.onrender.com/api/v1/boots/${bootId}`,
+        {
+          withCredentials: true,
+        }
+      )
       .then((response) => {
         setBoot(response.data.data.boot);
         setLoading(false);
