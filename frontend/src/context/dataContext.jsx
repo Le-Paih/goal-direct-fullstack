@@ -8,7 +8,6 @@ export function DataProvider({ children }) {
   const [kitData, setKitData] = useState([]);
   const [loading, setLoading] = useState(true);
   const [user] = useState(true);
-  const api = import.meta.env.VITE_API_URL;
 
   useEffect(() => {
     const fetchData = async () => {
@@ -20,9 +19,12 @@ export function DataProvider({ children }) {
               withCredentials: true,
             }
           ),
-          axios.get(`${api}/kits`, {
-            withCredentials: true,
-          }),
+          axios.get(
+            `https://goal-direct-fullstack-4.onrender.com/api/v1/kits`,
+            {
+              withCredentials: true,
+            }
+          ),
         ]);
 
         // const bootsData = await bootsRes.json();
@@ -40,7 +42,7 @@ export function DataProvider({ children }) {
     };
 
     fetchData();
-  }, [api]);
+  }, []);
 
   return (
     <DataContext.Provider
