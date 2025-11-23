@@ -32,7 +32,7 @@ function BootCard({ image, name, price, id }) {
   return (
     <Tile onClick={() => navigate(`/boots/${id}`)}>
       <TileImg
-        src={`https://goal-direct-fullstack-4.onrender.com/api/v1/boots/img${image}`}
+        src={`https://goal-direct-fullstack-4.onrender.com/api/v1/boots/${image.image1}`}
       />
       <TileName>{name}</TileName>
       <TilePrice>£{price}</TilePrice>
