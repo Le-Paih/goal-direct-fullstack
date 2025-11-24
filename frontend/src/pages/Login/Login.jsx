@@ -54,7 +54,7 @@ export function Login() {
     setLoading(true);
     try {
       const { data } = await axios.post(
-        "https://goal-direct-fullstack-4.onrender.com/api/v1/login",
+        "https://goal-direct-fullstack-4.onrender.com/api/v1/auth/login",
         { ...inputValue },
         { withCredentials: true }
       );

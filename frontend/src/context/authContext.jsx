@@ -32,7 +32,7 @@ export function AuthProvider({ children }) {
   const logout = async () => {
     try {
       await axios.get(
-        `https://goal-direct-fullstack-4.onrender.com/api/v1//auth/logout`,
+        `https://goal-direct-fullstack-4.onrender.com/api/v1/auth/logout`,
         {},
         { withCredentials: true }
       );
