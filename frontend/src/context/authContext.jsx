@@ -31,7 +31,11 @@ export function AuthProvider({ children }) {
 
   const logout = async () => {
     try {
-      await axios.get(`${api}/auth/logout`, {}, { withCredentials: true });
+      await axios.get(
+        `https://goal-direct-fullstack-4.onrender.com/api/v1//auth/logout`,
+        {},
+        { withCredentials: true }
+      );
       localStorage.removeItem("authToken");
       localStorage.removeItem("user");
       setIsLoggedIn(false);
