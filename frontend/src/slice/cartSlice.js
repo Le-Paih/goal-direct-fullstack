@@ -10,12 +10,15 @@ import axios from "axios";
 
 export const fetchCart = createAsyncThunk("cart/fetchCart", async () => {
   const token = localStorage.getItem("authToken");
-  const response = await axios.get("http://127.0.0.1:3000/api/v1/cart/", {
-    withCredentials: true,
-    headers: {
-      Authorization: `Bearer ${token}`,
-    },
-  });
+  const response = await axios.get(
+    "https://goal-direct-fullstack-4.onrender.com/api/v1/cart/",
+    {
+      withCredentials: true,
+      headers: {
+        Authorization: `Bearer ${token}`,
+      },
+    }
+  );
   return response.data.data;
 });
 
@@ -24,7 +27,7 @@ export const addItemToCart = createAsyncThunk(
   async ({ itemId, itemType, size, quantity }) => {
     try {
       const response = await axios.post(
-        "http://127.0.0.1:3000/api/v1/cart/add",
+        "https://goal-direct-fullstack-4.onrender.com/api/v1/cart/add",
         { itemId, itemType, size, quantity },
         { withCredentials: true }
       );
@@ -42,7 +45,7 @@ export const updateCartItem = createAsyncThunk(
   async ({ itemId, itemType, size, quantity }) => {
     try {
       const response = await axios.put(
-        "http://127.0.0.1:3000/api/v1/cart/update",
+        "https://goal-direct-fullstack-4.onrender.com/api/v1/cart/update",
         { itemId, itemType, size, quantity },
         { withCredentials: true }
       );
@@ -61,7 +64,7 @@ export const removeItemFromCart = createAsyncThunk(
       const token = localStorage.getItem("authToken");
 
       const response = await axios.delete(
-        "http://127.0.0.1:3000/api/v1/cart/remove",
+        "https://goal-direct-fullstack-4.onrender.com/api/v1/cart/remove",
         {
           data: { itemId, itemType, size, quantity }, // 👈 DELETE needs `data` inside the config
           withCredentials: true,
@@ -80,7 +83,7 @@ export const removeItemFromCart = createAsyncThunk(
 export const clearCart = createAsyncThunk("cart/clearCart", async () => {
   const token = localStorage.getItem("authToken");
   const response = await axios.post(
-    "http://127.0.0.1:3000/api/v1/cart/clear",
+    "https://goal-direct-fullstack-4.onrender.com/api/v1/cart/clear",
     {},
     {
       withCredentials: true,
