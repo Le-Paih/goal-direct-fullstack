@@ -9,7 +9,6 @@ export function AuthProvider({ children }) {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const [user, setUser] = useState(null);
   const dispatch = useDispatch();
-  const api = import.meta.env.VITE_API_URL;
 
   useEffect(() => {
     const token = localStorage.getItem("authToken");
@@ -32,8 +31,7 @@ export function AuthProvider({ children }) {
   const logout = async () => {
     try {
       await axios.get(
-        `https://goal-direct-fullstack-4.onrender.com/api/v1/auth/logout`,
-        {},
+        "https://goal-direct-fullstack-4.onrender.com/api/v1/auth/logout",
         { withCredentials: true }
       );
       localStorage.removeItem("authToken");

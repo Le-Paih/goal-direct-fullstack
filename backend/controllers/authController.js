@@ -72,8 +72,8 @@ module.exports.login = async (req, res, next) => {
 module.exports.logout = (req, res) => {
   res.clearCookie('jwt', {
     httpOnly: true,
-    secure: process.env.NODE_ENV === 'production',
-    sameSite: 'Strict',
+    secure: false,
+    sameSite: 'Lax',
   });
 
   res
