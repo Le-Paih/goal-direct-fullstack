@@ -156,10 +156,7 @@ function BootItem() {
           <Slider ref={slider} {...sliderSettings}>
             {Object.values(boot.image).map((image, index) => (
               <div key={index}>
-                <Img
-                  src={`https://goal-direct-fullstack-4.onrender.com/api/v1/boots/${image}`}
-                  alt={`Boot ${index + 1}`}
-                />
+                <Img src={`/${image}`} alt={`Boot ${index + 1}`} />
               </div>
             ))}
           </Slider>
